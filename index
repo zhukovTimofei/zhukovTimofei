@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Резюме владельца IT компании">
+    <title>Резюме владельца IT компании</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section-title {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+        footer a {
+            color: #f0a500;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Жуков Тиммофей</h1>
+    <p>Владелец IT компании, предоставляющей услуги по разработке программного обеспечения</p>
+</header>
+
+<div class="container">
+    <section>
+        <h2 class="section-title">О компании</h2>
+        <p>Я являюсь владельцем IT компании, которая специализируется на разработке программного обеспечения для автоматизированных систем. Наша миссия — предоставление высококачественных решений для автоматизации бизнес-процессов и управления системами.</p>
+    </section>
+
+    <section>
+        <h2 class="section-title">Услуги</h2>
+        <ul>
+            <li><strong>Разработка программного обеспечения под ключ:</strong> полный цикл разработки, начиная от анализа требований и заканчивая тестированием и поддержкой.</li>
+            <li><strong>Интеграция систем автоматизации:</strong> мы создаем решения для автоматизации бизнес-процессов и оптимизации работы производственных систем.</li>
+            <li><strong>Разработка IoT приложений:</strong> программные продукты для управления и мониторинга IoT-устройств.</li>
+            <li><strong>Модернизация существующих решений:</strong> обновление устаревшего программного обеспечения для современных требований.</li>
+            <li><strong>Техническая поддержка:</strong> консультации, поддержка и развитие ПО после запуска в эксплуатацию.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="section-title">Контактная информация</h2>
+        <p>Для связи с нами по вопросам сотрудничества или запросу услуг, вы можете отправить письмо на электронную почту: <a href="mailto:waitsolo@yandex.ru">waitsolo@yandex.ru</a></p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Жуков Тимофей. Все права защищены.</p>
+</footer>
+
+</body>
+</html>
